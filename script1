@@ -4,4 +4,5 @@ node
   {
   sh 'hola mundo colombia'
   }
+  stage ('prueba2')
 }
